@@ -1,6 +1,7 @@
 # ex_2
 
 Code from https://github.com/NVIDIA/cuda-samples
+
 Exectution commands using the commands below:
 ```
 export PATH=/usr/local/cuda/bin:$PATH
